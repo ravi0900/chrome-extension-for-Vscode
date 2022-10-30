@@ -1,0 +1,16 @@
+{
+    "extends": "airbnb-base",
+    "rules": {
+        "indent": ["error", 4],
+        "no-alert": "off"
+    },
+    "globals": {
+        "chrome": true
+    },
+    "env": {
+        "serviceworker": true
+    },
+    "parserOptions": {
+        "ecmaVersion": 2020
+    }
+}
