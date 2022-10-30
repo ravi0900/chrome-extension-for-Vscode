@@ -1,6 +1,6 @@
 # Launch Clone in VSCode
 
->After cloning a repo in local machinee, easily open file or folder from github repository links to in VSCode editor for quick access.
+>After cloning a repo in local machine or somewhere in remote, you can easily open file or folder from github repository links to in remote host like gitpod or in VSCode editor for quick access.
 
 ![cover-image](./vscode.png)
 
